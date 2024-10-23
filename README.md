@@ -25,7 +25,8 @@ A chat interface, written in Steamlit and powered by LangChain and Llama so you 
 **Tech stack**
 - SteamLit
 - Llama
-- LangChain 
+- LangChain
+- Pandas
 
 
 ### 3. Data Dashboards [GitHub](https://github.com/TakinB/data-dashboard) 
@@ -36,6 +37,7 @@ This app is written using dash and plotly in python. It is a dashboard template 
 - Plotly Dash
 - CSS
 - Python
+- Pandas
 
 <img src="https://github.com/TakinB/data-dashboard/blob/main/demo.gif" >
 
