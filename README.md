@@ -67,5 +67,6 @@ The goal is to imagine a future and walk back from there. So we can plan to prev
 
 <img src="https://github.com/TakinB/ThingFromTheFuture/blob/main/media/thing-from-future-mobility.gif" >
 
-
+### 7. Treasure Hunt game made in colab with Claud
+A treature hunt game which is in progress. Please give it a try [here](https://takinb.github.io/detectorist/)
 
